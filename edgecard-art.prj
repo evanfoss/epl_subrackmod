@@ -1,0 +1,3 @@
+elements-dir ./foot
+schematics edgecard.sch hidden-magic.sch
+output-name edgecard-art
