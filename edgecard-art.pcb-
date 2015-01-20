@@ -5,14 +5,14 @@ FileVersion[20070407]
 
 PCB["" 600000 500000]
 
-Grid[500.0 0 0 0]
-Cursor[600000 442000 0.000000]
+Grid[500.0 0 0 1]
+Cursor[486500 288500 0.000000]
 PolyArea[200000000.000000]
 Thermal[0.500000]
 DRC[600 1000 600 1000 1500 1000]
 Flags("nameonpcb,uniquename,clearnew,snappin")
 Groups("1,c:2,s:3:4")
-Styles["Signal,1000,3600,2000,1000:Power,2500,6000,3500,1000:Fat,8000,10000,7000,1000:Skinny,600,2402,1181,600"]
+Styles["Signal,1,3600,2000,1000:Power,2500,6000,3500,1000:Fat,8000,10000,7000,1000:Skinny,600,2402,1181,600"]
 
 Symbol[' ' 1800]
 (
@@ -1135,24 +1135,17 @@ Layer(3 "outline")
 	Line[516000 254100 516000 327600 1 1200 "clearline"]
 	Line[66000 327600 66000 254100 1 1200 "clearline"]
 	Line[66000 254100 516000 254100 1 1200 "clearline"]
-	Line[112000 365000 112000 327600 1 1200 "clearline"]
-	Line[470000 365000 470000 327600 1 1200 "clearline"]
-	Line[112000 365000 470000 365000 1 1200 "clearline"]
+	Line[112000 360500 112000 327600 1 1200 "clearline"]
+	Line[470000 360500 470000 327600 1 1200 "clearline"]
+	Line[116500 365000 465500 365000 1 1200 "clearline"]
+	Arc[465500 360500 4500 4500 1 2000 90 90 "clearline"]
+	Arc[116500 360500 4500 4500 1 2000 0 90 "clearline"]
 )
 Layer(4 "spare")
 (
 )
 Layer(5 "silk")
 (
-	Text[223500 264000 1 100 "+5VD" "clearline,onsolder"]
-	Text[233500 264000 1 100 "GNDD" "clearline,onsolder"]
-	Text[243500 264000 1 100 "+12VD" "clearline,onsolder"]
-	Text[188000 264000 1 100 "+17V" "clearline,onsolder"]
-	Text[178000 264000 1 100 "+15V" "clearline,onsolder"]
-	Text[168000 264000 1 100 "-15V" "clearline,onsolder"]
-	Text[158000 264000 1 100 "-17V" "clearline,onsolder"]
-	Text[148000 264000 1 100 "COMMON" "clearline,onsolder"]
-	Text[138000 264000 1 100 "CHASSIS" "clearline,onsolder"]
 	Text[408000 299000 1 100 "A1" "clearline,onsolder"]
 	Text[418000 299000 1 100 "SYNCN" "clearline,onsolder"]
 	Text[378000 299000 1 100 "INT3" "clearline,onsolder"]
@@ -1187,6 +1180,26 @@ Layer(5 "silk")
 	Text[98000 257500 1 100 "DESIGNED BY EVAN FOSS" "clearline,onsolder"]
 	Text[91500 257500 1 100 "SUBRACK EDGECARD" "clearline,onsolder"]
 	Text[104500 257500 1 100 "EATON PEABODY LAB" "clearline,onsolder"]
+	Text[223500 257500 1 100 "+5VD" "clearline,onsolder"]
+	Text[233500 257500 1 100 "GNDD" "clearline,onsolder"]
+	Text[243500 257500 1 100 "+12VD" "clearline,onsolder"]
+	Text[188000 257500 1 100 "+17V" "clearline,onsolder"]
+	Text[178000 257500 1 100 "+15V" "clearline,onsolder"]
+	Text[168000 257500 1 100 "-15V" "clearline,onsolder"]
+	Text[158000 257500 1 100 "-17V" "clearline,onsolder"]
+	Text[148000 257500 1 100 "COMMON" "clearline,onsolder"]
+	Text[138000 257500 1 100 "CHASSIS" "clearline,onsolder"]
+	Text[138000 284500 1 100 "white" "clearline,onsolder"]
+	Text[178000 281500 1 100 "yellow" "clearline,onsolder"]
+	Text[223500 287000 1 100 "red" "clearline,onsolder"]
+	Text[233500 282500 1 100 "black" "clearline,onsolder"]
+	Text[243500 278500 1 100 "purple" "clearline,onsolder"]
+	Text[148500 287000 1 100 "blue" "clearline,onsolder"]
+	Text[167000 282000 1 100 "green" "clearline,onsolder"]
+	Text[448500 261500 1 100 "Intense iteration is " "clearline,onsolder"]
+	Text[455500 262000 1 100 "indistinguishable" "clearline,onsolder"]
+	Text[462000 262000 1 100 "from dumb guess " "clearline,onsolder"]
+	Text[468500 262500 1 100 "work" "clearline,onsolder"]
 )
 Layer(6 "silk")
 (
@@ -1224,6 +1237,13 @@ Layer(6 "silk")
 	Text[308000 325000 1 100 "/RESET" "clearline"]
 	Text[288000 319000 1 100 "GNDD" "clearline"]
 	Text[428000 319000 1 100 "GNDD" "clearline"]
+	Text[454500 314000 1 100 "The inventors of the " "clearline,selected"]
+	Text[461000 314000 1 100 "codes green and " "clearline,selected"]
+	Text[467500 313500 1 100 "brown are going to " "clearline,selected"]
+	Text[487500 313500 1 100 "lower limit of " "clearline,selected"]
+	Text[494000 313500 1 100 "hospital safety." "clearline,selected"]
+	Text[481000 313500 1 100 "day for finding the " "clearline,selected"]
+	Text[474500 313500 1 100 "win an Ignobel one " "clearline,selected"]
 )
 NetList()
 (
