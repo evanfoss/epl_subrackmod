@@ -21,10 +21,19 @@ As the intention is to keep the modules in use for many years as projects are bu
 
 ## Design
 
+The circuit design is very simple because this is just an adapter.
+
+| <a href="edgecard.sch.png"><img src="edgecard.sch.png"></a>
+|:---------------
+|Schematic
+
+Note there is another schematic labeled "hidden-magic" but it's empty. It is just part of my standard template for drafting PCB.
 
 | <a href="photos/pcb-render1.png"><img src="photos/pcb-render1.png"></a>
 |:---------------
 | <a href="photos/pcb-render2.png"><img src="photos/pcb-render2.png"></a>
 |:---------------
 |PCB Layout
+
+
 
