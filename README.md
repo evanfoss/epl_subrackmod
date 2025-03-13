@@ -24,5 +24,6 @@ As the intention is to keep the modules in use for many years as projects are bu
 
 |<a href="photos/pcb-render1.png"><img src="photos/pcb-render1.png"></a>
 |<a href="photos/pcb-render2.png"><img src="photos/pcb-render2.png"></a>
+|:---------------
 |PCB Layout
 
