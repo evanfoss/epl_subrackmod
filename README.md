@@ -29,15 +29,20 @@ The circuit design is very simple because this is just an adapter.
 
 Note there is another schematic labeled "hidden-magic" but it's empty. It is just part of my standard template for drafting PCB.
 
-| <a href="photos/pcb-render1.png"><img src="photos/pcb-render1.png"></a>
+| <a href="photos/pcb-render1.png"><img alt="The layout is uninspired honestly but it's not meant to be an artistic expression." src="photos/pcb-render1.png"></a>
 |:---------------
 | <a href="photos/pcb-render2.png"><img src="photos/pcb-render2.png"></a>
 | PCB Layout
 
-| <a href="photos/IMG_3226.JPG"><img src="photos/IMG_3226.JPG"></a>
+| <a href="photos/IMG_3226.JPG"><img alt="The image shows the PCB in the 2nd of the small tracks from what would be left if oriented vertically." src="photos/IMG_3226.JPG"></a>
 |:---------------
-| <a href="photos/IMG_3227.JPG"><img src="photos/IMG_3227.JPG"></a>
-| Mechanical Alignment of the rear PCB
+| <a href="photos/IMG_3227.JPG"><img alt="The image clarifies that the power connections are at the top of the module." src="photos/IMG_3227.JPG"></a>
+| Mechanical Alignment of the rear PCB. The left (power connection end) is the side that goes up.
+
+The alignment of the rear PCB is critical for a few reasons.
+ 1. We don't want the PCB centered as that could lead to someone inserting a module upside down and burning it up.
+ 2. We don't want the PCB to come loose and slide into the backplane connector on an angle and short out or partially connect.
+ 3. We depend on the alignment of 4 or 5 modules in the rack during it's assembly to align the backplane.
 
 | <a href="photos/front panel.png"><img src="photos/front panel.png"></a>
 | :---------------
