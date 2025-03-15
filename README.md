@@ -23,7 +23,7 @@ As the intention is to keep the modules in use for many years as projects are bu
 
 The circuit design is very simple because this is just an adapter.
 
-| <a href="edgecard.sch.png"><img src="edgecard.sch.png"></a>
+| <a href="edgecard.sch.png"><img alt="Image of the schematic for the PCB showing connectors and the edge card wired together quite predictably." src="edgecard.sch.png"></a>
 |:---------------
 | Schematic
 
