@@ -16,6 +16,9 @@ This project is a template and parts meant to make designing projects for the <a
 |4                  |N.A.                                   |Generic                    |Cheese Head Screws                 |Use on the rear panel
 |1                  |N.A.                                   |Custom Manufactured        |Front Panel                        |Front Panel
 |1                  |N.A.                                   |Custom Manufactured        |Edge Card PCB                      |Rear Interconnect with subrack
+|1                  |0022122064                             |Molex                      |6 pin right angle connector        |Analog Power
+|1                  |0022122034                             |Molex                      |3 pin right angle connector        |Digital (aka noisy) Power
+
 
 As the intention is to keep the modules in use for many years as projects are built and retired recycling the housing's changing the screws from the stock ones is important.
 
@@ -57,5 +60,7 @@ Observe the front panel has a bottom hole which the current subracks do not use 
 
 ## Future
 
-This is a mature design. All that really needs to happen is for the digital connections in the module to see some more use. Those pin allocations may evolve over time but they should *never* be made module specific.
+This is a mature design. All that really needs to happen is for the digital connections in the module to see some more use. I have not yet specified a connector for that area but it should be keyed and probably right angle. Those pin allocations may evolve over time but they should *never* be made module specific.
+
+One change I would like to make would be to bevel the PCB card edge but not every PCB fabrication facility does this and we are not inserting and extracting modules that frequently.
 
