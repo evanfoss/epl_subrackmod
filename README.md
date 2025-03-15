@@ -43,6 +43,7 @@ The alignment of the rear PCB is critical for a few reasons.
  1. We don't want the PCB centered as that could lead to someone inserting a module upside down and burning it up.
  2. We don't want the PCB to come loose and slide into the backplane connector on an angle and short out or partially connect.
  3. We depend on the alignment of 4 or 5 modules in the rack during it's assembly to align the backplane.
+ 4. I hate the sound of things rattling in a completed device.
 
 | <a href="photos/front panel.png"><img src="photos/front panel.png"></a>
 | :---------------
