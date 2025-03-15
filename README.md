@@ -34,6 +34,11 @@ Note there is another schematic labeled "hidden-magic" but it's empty. It is jus
 | <a href="photos/pcb-render2.png"><img src="photos/pcb-render2.png"></a>
 | PCB Layout
 
+| <a href="photos/IMG_3226.JPG"><img src="photos/IMG_3226.JPG"></a>
+|:---------------
+| <a href="photos/IMG_3227.JPG"><img src="photos/IMG_3227.JPG"></a>
+| Mechanical Alignment of the rear PCB
+
 | <a href="photos/front panel.png"><img src="photos/front panel.png"></a>
 | :---------------
 | Front Panel
