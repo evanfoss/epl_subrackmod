@@ -45,13 +45,15 @@ The alignment of the rear PCB is critical for a few reasons.
  3. We depend on the alignment of 4 or 5 modules in the rack during it's assembly to align the backplane.
  4. I hate the sound of things rattling in a completed device.
 
-| <a href="photos/front panel.png"><img src="photos/front panel.png"></a>
+| <a href="photos/front panel.png"><img alt="The front panel rendered by front panels express software showing 4 mounting holes for the extrusions and 2 mounting holes to secure the module into the subrack." src="photos/front panel.png"></a>
 | :---------------
 | Front Panel template.
 
 The front panel template has a few important features that the standard included front panel does not.
  1. The screw outlines are machined down to remove the anodizing from under the lockwashers so they make proper electrical contact for grounding.
  2. I rounded the corners so that when you insert or extract a module they don't risk cutting your hands.
+
+Observe the front panel has a bottom hole which the current subracks do not use but the original ones did.
 
 ## Future
 
