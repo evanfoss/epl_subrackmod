@@ -47,7 +47,13 @@ The alignment of the rear PCB is critical for a few reasons.
 
 | <a href="photos/front panel.png"><img src="photos/front panel.png"></a>
 | :---------------
-| Front Panel
+| Front Panel template.
 
-## 
+The front panel template has a few important features that the standard included front panel does not.
+ 1. The screw outlines are machined down to remove the anodizing from under the lockwashers so they make proper electrical contact for grounding.
+ 2. I rounded the corners so that when you insert or extract a module they don't risk cutting your hands.
+
+## Future
+
+This is a mature design. All that really needs to happen is for the digital connections in the module to see some more use. Those pin allocations may evolve over time but they should *never* be made module specific.
 
