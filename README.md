@@ -30,7 +30,7 @@ The circuit design is very simple because this is just an adapter.
 |:---------------
 | Schematic
 
-Note there is another schematic labeled "hidden-magic" but it's empty. It is just part of my standard template for drafting PCB.
+Note there is another schematic labeled "<a href="hidden-magic.sch.png">hidden-magic</a>" but it's empty. It is just part of my standard template for drafting PCB.
 
 | <a href="photos/pcb-render1.png"><img alt="The layout is uninspired honestly but it's not meant to be an artistic expression." src="photos/pcb-render1.png"></a>
 |:---------------
