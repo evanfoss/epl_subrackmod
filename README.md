@@ -55,6 +55,7 @@ The alignment of the rear PCB is critical for a few reasons.
 The front panel template has a few important features that the standard included front panel does not.
  1. The screw outlines are machined down to remove the anodizing from under the lockwashers so they make proper electrical contact for grounding.
  2. I rounded the corners so that when you insert or extract a module they don't risk cutting your hands.
+ 3. The added text is suggested font face and size for the institution of the designer's, device name, connection & switch labels, and designer initials/name at the bottom and revision date.
 
 Observe the front panel has a bottom hole which the current subracks do not use but the original ones did.
 
